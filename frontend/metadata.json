@@ -1,0 +1,6 @@
+{
+  "name": "ClubSphere",
+  "description": "Student Clubs & Event Collaboration Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
