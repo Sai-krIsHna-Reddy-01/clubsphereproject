@@ -1,0 +1,17 @@
+# Build artifacts
+/backend/target/
+
+# Local config
+/backend/src/main/resources/application.properties
+
+# Node / Vite
+/frontend/node_modules/
+/frontend/dist/
+
+# IDE files
+/.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
